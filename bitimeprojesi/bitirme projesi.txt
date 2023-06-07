@@ -1,0 +1,22 @@
+-demo yatırım sistemi içeren bir internet sitesi
+
+demo yatırım nedir?
+paranınz olmadan, varmış gibi yatırım yapmamızı sağlayan soyut bir finans sistemi.
+
+
+ 2 farklı hesap türü
+-uzman hesap:kullanıcı yaptıgı yatırımlarda başarılı ve başarısız yönlerini blog yazıları yazarak o yatırımdaki başarı sırlarının açıklayacak.
+-normal hesap: kullanıcı demo yatırım aracını kullanarak kendi tecrübelerini geliştirecektir
+
+
+-yatırım hakkında doğru bilgi bulmak ve bu işi öğrenip tecrübe kazanmak oldukça zor.
+
+-önem:
+
+-sitemizde demo yatırım adı altında bir sistem olacak 
+
+
+--------------------------------------------------------------
+-özellik
+-özgünlük
+-içerik
